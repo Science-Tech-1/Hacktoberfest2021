@@ -1,0 +1,1 @@
+never use using namespace std, use std :: always in production code
